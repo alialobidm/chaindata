@@ -43,7 +43,7 @@
     "@talismn/chain-connector-evm": "0.0.0-pr1722-20241202001940",
     "@talismn/chaindata-provider": "0.0.0-pr1722-20241202001940",
     "@talismn/scale": "0.0.0-pr1722-20241202001940",
-    "axios": "^1.6.2",
+    "axios": "^1.7.4",
     "dotenv": "^16.3.1",
     "extract-colors": "^2.0.6",
     "lodash": "^4.17.21",
